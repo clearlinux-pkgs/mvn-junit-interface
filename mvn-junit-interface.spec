@@ -4,7 +4,7 @@
 #
 Name     : mvn-junit-interface
 Version  : 0.11
-Release  : 1
+Release  : 2
 URL      : https://github.com/sbt/junit-interface/archive/0.11.tar.gz
 Source0  : https://github.com/sbt/junit-interface/archive/0.11.tar.gz
 Source1  : https://repo1.maven.org/maven2/com/novocode/junit-interface/0.11/junit-interface-0.11.jar
